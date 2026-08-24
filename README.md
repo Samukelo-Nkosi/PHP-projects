@@ -157,16 +157,16 @@ for ($i = 0; $i < 3; $i++) {
 ## Testing
 
 - Test Case 1: All High Scores
-- Input: Math=80, Science=90, English=70
-- Expected: Total=240, Average=80.00, Status=Pass ✓
+  Input: Math=80, Science=90, English=70
+  Expected: Total=240, Average=80.00, Status=Pass ✓
 
 - Test Case 2: Failing Scores
-- Input: Math=40, Science=35, English=50
-- Expected: Total=125, Average=41.67, Status=Fail ✓
+  Input: Math=40, Science=35, English=50
+  Expected: Total=125, Average=41.67, Status=Fail ✓
 
 - Test Case 3: Boundary Test
-- Input: Math=50, Science=50, English=50
-- Expected: Total=150, Average=50.00, Status=Pass ✓
+  Input: Math=50, Science=50, English=50
+  Expected: Total=150, Average=50.00, Status=Pass ✓
 
 ## Features Explained
 
@@ -182,3 +182,9 @@ Front-End Components
 - Calculations - Total and average computation
 - Conditional Logic - Pass/Fail determination
 - Loop Processing - Array iteration for score display
+
+## Samukelo Nkosi
+
+Created for learning PHP and web development fundamentals.
+
+Last Updated: August 24, 2026
