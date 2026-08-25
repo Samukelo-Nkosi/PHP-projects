@@ -3,6 +3,7 @@
 # Student Grade Calculator
 
 A simple yet powerful web application for teachers to calculate student grades and performance metrics. Built with PHP, HTML, and CSS.
+[![Laravel](https://github.com/Samukelo-Nkosi/PHP-projects/actions/workflows/laravel.yml/badge.svg)](https://github.com/Samukelo-Nkosi/PHP-projects/actions/workflows/laravel.yml)
 
 ## Overview
 
